@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rajaindotools
+- 👀 I’m interested in building Brand Image and Brand Digital Analytics
+- 🌱 I’m currently learning Python for Data Analytics with Machine Leaning
+- 💞️ I’m looking to collaborate on develop Machine Leaning with Python
